@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Chase Sapphire Preferred",
+    "bonus": "60,000 points",
+    "bonus_value": "$750",
+    "spend_requirement": "$4,000 in 3 months",
+    "annual_fee": "$95",
+    "category": "Travel",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com/reviews/credit-cards/chase-sapphire-preferred"
+  },
+  {
+    "name": "American Express Gold Card",
+    "bonus": "60,000 points",
+    "bonus_value": "$600",
+    "spend_requirement": "$6,000 in 6 months",
+    "annual_fee": "$250",
+    "category": "Travel / Dining",
+    "source_name": "The Points Guy",
+    "source_url": "https://thepointsguy.com/credit-cards/american-express/amex-gold-card/"
+  },
+  {
+    "name": "Capital One Venture Rewards",
+    "bonus": "75,000 miles",
+    "bonus_value": "$750",
+    "spend_requirement": "$4,000 in 3 months",
+    "annual_fee": "$95",
+    "category": "Travel",
+    "source_name": "NerdWallet",
+    "source_url": "https://www.nerdwallet.com/reviews/credit-cards/capital-one-venture"
+  },
+  {
+    "name": "Citi Double Cash Card",
+    "bonus": "$200 cash back",
+    "bonus_value": "$200",
+    "spend_requirement": "$1,500 in 6 months",
+    "annual_fee": "$0",
+    "category": "Cash Back",
+    "source_name": "Doctor of Credit",
+    "source_url": "https://www.doctorofcredit.com/citi-double-cash-card-review/"
+  },
+  {
+    "name": "Chase Freedom Unlimited",
+    "bonus": "$200 cash back",
+    "bonus_value": "$200",
+    "spend_requirement": "$500 in 3 months",
+    "annual_fee": "$0",
+    "category": "Cash Back",
+    "source_name": "Doctor of Credit",
+    "source_url": "https://www.doctorofcredit.com/chase-freedom-unlimited-review/"
+  }
+]
