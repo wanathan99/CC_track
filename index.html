@@ -469,7 +469,6 @@
         const actionDate = r['Downgrade/Cancel Date'] || '';
         const actionType = r['Downgrade/Cancel'] || '';
         const statusKey  = getStatusKey(r);
-        const days       = getDaysUntil(actionDate);
 
         let rowClass = '';
         let statusHtml = '';
@@ -517,14 +516,14 @@
     document.getElementById('mc-status-filter').addEventListener('change', applyMyCardFilters);
 
     fetch(SHEET_CSV_URL)
-    .then(r => r.json())
+      .then(r => r.json())
       .then(data => {
         allMyCards = data;
         applyMyCardFilters();
       })
       .catch(() => {
         document.getElementById('my-cards-body').innerHTML =
-          '<tr><td colspan="9" class="no-results">Failed to load Google Sheet. Make sure it is published to the web.</td></tr>';
+          '<tr><td colspan="9" class="no-results">Failed to load Google Sheet. Make sure the Apps Script is deployed.</td></tr>';
       });
   </script>
 
