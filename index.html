@@ -170,9 +170,9 @@
     </div>
 
     <div class="legend">
-      <span><span class="dot dot-red"></span> Newly opened (&lt;30 days) — meet spend requirement</span>
-      <span><span class="dot dot-yellow"></span> Recently opened (30–90 days)</span>
-      <span><span class="dot dot-green"></span> Complete (closed or action taken)</span>
+      <span><span class="dot dot-red"></span> Close NOW — past 1-year anniversary, no action taken</span>
+      <span><span class="dot dot-yellow"></span> Close in 90 days — anniversary approaching</span>
+      <span><span class="dot dot-green"></span> Complete — closed or action taken</span>
     </div>
 
     <div class="filters" style="margin-top: 1rem;">
@@ -183,8 +183,8 @@
       </select>
       <select id="mc-status-filter">
         <option value="">All Statuses</option>
-        <option value="urgent">Urgent (opened &lt;30d ago)</option>
-        <option value="soon">Active (opened &lt;90d ago)</option>
+        <option value="close-now">Close NOW</option>
+        <option value="close-soon">Close in 90 Days</option>
         <option value="complete">Complete</option>
         <option value="none">Open</option>
       </select>
@@ -393,10 +393,16 @@
       const isClosed      = String(r['Last Used'] || '').toLowerCase() === 'closed';
       const hasActionDate = isValidDate(r['Downgrade/Cancel Date']);
       if (isClosed || hasActionDate) return 'complete';
-      const days = getDaysSince(r['Open Date']);
-      if (days !== null) {
-        if (days <= 30) return 'urgent';
-        if (days <= 90) return 'soon';
+
+      const openDate = new Date(r['Open Date']);
+      if (!isNaN(openDate) && openDate.getFullYear() >= 2000) {
+        const anniversary = new Date(openDate);
+        anniversary.setFullYear(anniversary.getFullYear() + 1);
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        const daysUntil = Math.ceil((anniversary - today) / (1000 * 60 * 60 * 24));
+        if (daysUntil <= 0)  return 'close-now';
+        if (daysUntil <= 90) return 'close-soon';
       }
       return 'none';
     }
@@ -459,16 +465,14 @@
 
         if (statusKey === 'complete') {
           statusHtml = `<span class="action-done">Complete</span>`;
-        } else if (statusKey === 'urgent') {
+        } else if (statusKey === 'close-now') {
           rowClass   = 'row-urgent';
-          statusHtml = `<span class="action-urgent">New (${daysSince}d ago)</span>`;
-        } else if (statusKey === 'soon') {
+          statusHtml = `<span class="action-urgent">Close NOW</span>`;
+        } else if (statusKey === 'close-soon') {
           rowClass   = 'row-soon';
-          statusHtml = `<span class="action-soon">Active (${daysSince}d ago)</span>`;
+          statusHtml = `<span class="action-soon">Close in 90 days</span>`;
         } else {
-          statusHtml = daysSince !== null
-            ? `<span class="action-none">Open (${daysSince}d ago)</span>`
-            : `<span class="action-none">Open</span>`;
+          statusHtml = `<span class="action-none">No Action Required</span>`;
         }
 
         return `
