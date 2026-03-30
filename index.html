@@ -518,8 +518,8 @@
 
     fetch(SHEET_CSV_URL)
     .then(r => r.json())
-      .then(text => {
-        allMyCards = parseCSV(text);
+      .then(data => {
+        allMyCards = data;
         applyMyCardFilters();
       })
       .catch(() => {
