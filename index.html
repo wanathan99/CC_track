@@ -186,7 +186,7 @@
         <option value="urgent">Urgent (opened &lt;30d ago)</option>
         <option value="soon">Active (opened &lt;90d ago)</option>
         <option value="complete">Complete</option>
-        <option value="none">No Action Needed</option>
+        <option value="none">Open</option>
       </select>
     </div>
 
@@ -466,7 +466,9 @@
           rowClass   = 'row-soon';
           statusHtml = `<span class="action-soon">Active (${daysSince}d ago)</span>`;
         } else {
-          statusHtml = `<span class="action-none">—</span>`;
+          statusHtml = daysSince !== null
+            ? `<span class="action-none">Open (${daysSince}d ago)</span>`
+            : `<span class="action-none">Open</span>`;
         }
 
         return `
