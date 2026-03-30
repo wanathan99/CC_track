@@ -392,7 +392,10 @@
     function getStatusKey(r) {
       const isClosed      = String(r['Last Used'] || '').toLowerCase() === 'closed';
       const hasActionDate = isValidDate(r['Downgrade/Cancel Date']);
-      if (isClosed || hasActionDate) return 'complete';
+      const annualFee     = parseFloat(String(r['Annual Fee'] || '0').replace(/[^0-9.]/g, '')) || 0;
+      const noFee         = annualFee === 0;
+
+      if (isClosed || hasActionDate || noFee) return 'complete';
 
       const openDate = new Date(r['Open Date']);
       if (!isNaN(openDate) && openDate.getFullYear() >= 2000) {
