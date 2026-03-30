@@ -356,20 +356,44 @@
     let mcSortCol  = null;
     let mcSortDir  = 1;
 
-    function getDaysSince(dateStr) {
-      if (!dateStr) return null;
-      const d = new Date(dateStr);
-      if (isNaN(d)) return null;
+    function formatDate(val) {
+      if (!val) return '—';
+      const d = new Date(val);
+      if (isNaN(d)) return String(val);
+      return (d.getUTCMonth() + 1) + '/' + d.getUTCDate() + '/' + d.getUTCFullYear();
+    }
+
+    function formatDollar(val) {
+      if (val === '' || val === null || val === undefined) return '—';
+      const n = parseFloat(String(val).replace(/[^0-9.]/g, ''));
+      if (isNaN(n)) return String(val) || '—';
+      return n === 0 ? '$0' : '$' + n.toLocaleString();
+    }
+
+    function getDaysSince(val) {
+      if (!val && val !== 0) return null;
+      const d = typeof val === 'number' ? new Date(val) : new Date(val);
+      if (isNaN(d) || d.getFullYear() < 2000) return null;
       const today = new Date();
       today.setHours(0, 0, 0, 0);
       return Math.ceil((today - d) / (1000 * 60 * 60 * 24));
     }
 
+    function isValidDate(val) {
+      if (!val && val !== 0) return false;
+      const s = String(val).trim();
+      if (s === '' || s === '0') return false;
+      const d = new Date(val);
+      if (isNaN(d)) return false;
+      if (d.getFullYear() < 2000) return false;
+      return true;
+    }
+
     function getStatusKey(r) {
       const isClosed      = String(r['Last Used'] || '').toLowerCase() === 'closed';
-      const hasActionDate = String(r['Downgrade/Cancel Date'] || '').trim() !== '';
+      const hasActionDate = isValidDate(r['Downgrade/Cancel Date']);
       if (isClosed || hasActionDate) return 'complete';
-      const days = getDaysSince(String(r['Open Date'] || ''));
+      const days = getDaysSince(r['Open Date']);
       if (days !== null) {
         if (days <= 30) return 'urgent';
         if (days <= 90) return 'soon';
@@ -449,12 +473,12 @@
           <tr class="${rowClass}">
             <td>${r['Bank'] || '—'}</td>
             <td><strong>${r['Card Name'] || '—'}</strong></td>
-            <td>${r['Annual Fee'] || '—'}</td>
-            <td>${r['Open Date'] || '—'}</td>
-            <td>${r['Last Used'] || '—'}</td>
-            <td>${r['Bonus Amount'] || '—'}</td>
+            <td>${formatDollar(r['Annual Fee'])}</td>
+            <td>${formatDate(r['Open Date'])}</td>
+            <td>${r['Last Used'] ? formatDate(r['Last Used']) : '—'}</td>
+            <td>${formatDollar(r['Bonus Amount'])}</td>
             <td>${actionType || '—'}</td>
-            <td>${actionDate || '—'}</td>
+            <td>${formatDate(actionDate)}</td>
             <td>${statusHtml}</td>
           </tr>
         `;
