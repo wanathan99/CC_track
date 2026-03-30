@@ -192,9 +192,9 @@
     </div>
 
     <div class="legend">
-      <span><span class="dot dot-red"></span> Action overdue or urgent (&lt;30 days)</span>
-      <span><span class="dot dot-yellow"></span> Action needed within 90 days</span>
-      <span><span class="dot dot-green"></span> Closed / cancelled</span>
+      <span><span class="dot dot-red"></span> Newly opened (&lt;30 days) — meet spend requirement</span>
+      <span><span class="dot dot-yellow"></span> Recently opened (30–90 days)</span>
+      <span><span class="dot dot-green"></span> Complete (closed or action taken)</span>
     </div>
 
     <div class="filters" style="margin-top: 1rem;">
@@ -205,9 +205,9 @@
       </select>
       <select id="mc-status-filter">
         <option value="">All Statuses</option>
-        <option value="urgent">Urgent / Overdue</option>
-        <option value="soon">Action Soon (90d)</option>
-        <option value="closed">Closed</option>
+        <option value="urgent">Urgent (opened &lt;30d ago)</option>
+        <option value="soon">Active (opened &lt;90d ago)</option>
+        <option value="complete">Complete</option>
         <option value="none">No Action Needed</option>
       </select>
     </div>
@@ -397,22 +397,23 @@
       });
     }
 
-    function getDaysUntil(dateStr) {
-      if (!dateStr || dateStr === '' || dateStr.toLowerCase().includes('closed') || dateStr.toLowerCase().includes('cancel')) return null;
+    function getDaysSince(dateStr) {
+      if (!dateStr) return null;
       const d = new Date(dateStr);
       if (isNaN(d)) return null;
       const today = new Date();
       today.setHours(0,0,0,0);
-      return Math.ceil((d - today) / (1000 * 60 * 60 * 24));
+      return Math.ceil((today - d) / (1000 * 60 * 60 * 24));
     }
 
     function getStatusKey(r) {
       const isClosed = (r['Last Used'] || '').toLowerCase() === 'closed';
-      if (isClosed) return 'closed';
-      const days = getDaysUntil(r['Downgrade/Cancel Date'] || '');
-      if (days !== null) {
-        if (days <= 30) return 'urgent';
-        if (days <= 90) return 'soon';
+      const hasActionDate = (r['Downgrade/Cancel Date'] || '').trim() !== '';
+      if (isClosed || hasActionDate) return 'complete';
+      const daysSince = getDaysSince(r['Open Date'] || '');
+      if (daysSince !== null) {
+        if (daysSince <= 30) return 'urgent';
+        if (daysSince <= 90) return 'soon';
       }
       return 'none';
     }
@@ -473,18 +474,15 @@
         let rowClass = '';
         let statusHtml = '';
 
-        if (statusKey === 'closed') {
-          statusHtml = `<span class="action-done">Closed</span>`;
+        const daysSince = getDaysSince(r['Open Date'] || '');
+        if (statusKey === 'complete') {
+          statusHtml = `<span class="action-done">Complete</span>`;
         } else if (statusKey === 'urgent') {
           rowClass = 'row-urgent';
-          statusHtml = days < 0
-            ? `<span class="action-urgent">Overdue by ${Math.abs(days)}d</span>`
-            : `<span class="action-urgent">${days}d left</span>`;
+          statusHtml = `<span class="action-urgent">New (${daysSince}d ago)</span>`;
         } else if (statusKey === 'soon') {
           rowClass = 'row-soon';
-          statusHtml = `<span class="action-soon">${days}d left</span>`;
-        } else if (actionDate) {
-          statusHtml = `<span class="action-none">${days !== null ? days + 'd away' : actionDate}</span>`;
+          statusHtml = `<span class="action-soon">Active (${daysSince}d ago)</span>`;
         } else {
           statusHtml = `<span class="action-none">—</span>`;
         }
