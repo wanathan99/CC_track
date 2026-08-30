@@ -28,11 +28,15 @@
   let DATA = null;
   let state = null;
 
+  const NON_DECOMPOSING = { 'đ': 'dj', 'ð': 'd', 'ø': 'o', 'ł': 'l', 'æ': 'ae', 'œ': 'oe', 'ħ': 'h', 'ı': 'i' };
+  const SUFFIXES = new Set(['jr', 'sr', 'ii', 'iii', 'iv', 'v']);
+
   function normalize(str) {
     return str
+      .toLowerCase()
+      .replace(/[đðøłæœħı]/g, (c) => NON_DECOMPOSING[c] || c)
       .normalize('NFD')
       .replace(/[̀-ͯ]/g, '')
-      .toLowerCase()
       .replace(/[^a-z0-9\s]/g, '')
       .replace(/\s+/g, ' ')
       .trim();
@@ -40,6 +44,7 @@
 
   function lastName(fullName) {
     const parts = normalize(fullName).split(' ').filter(Boolean);
+    while (parts.length > 1 && SUFFIXES.has(parts[parts.length - 1])) parts.pop();
     return parts[parts.length - 1] || '';
   }
 
