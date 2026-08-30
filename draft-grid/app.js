@@ -87,7 +87,7 @@
   function buildCells(team) {
     return DATA.years.map((year) => {
       const pick = team.picks[String(year)] || null;
-      return { year, pick, solved: false };
+      return { year, pick, solved: false, guessedCorrectly: false };
     });
   }
 
@@ -111,7 +111,7 @@
     els.summary.classList.add('hidden');
     els.game.classList.remove('hidden');
 
-    els.teamBanner.classList.remove('solved');
+    els.teamBanner.classList.remove('solved', 'missed');
     els.teamBannerLogo.classList.add('hidden');
     els.teamBannerLogo.style.backgroundImage = '';
     els.teamBannerName.textContent = '???';
@@ -236,6 +236,7 @@
 
     if (match) {
       match.solved = true;
+      match.guessedCorrectly = true;
       state.solvedCount += 1;
       renderGrid();
       setFeedback(`Correct — ${match.pick.player} (${match.year})`, true);
@@ -247,8 +248,8 @@
     }
   }
 
-  function revealTeamBanner() {
-    els.teamBanner.classList.add('solved');
+  function revealTeamBanner(correct) {
+    els.teamBanner.classList.add(correct ? 'solved' : 'missed');
     els.teamBannerLogo.classList.remove('hidden');
     els.teamBannerLogo.style.backgroundImage = `url(${state.team.logo})`;
     els.teamBannerName.textContent = state.team.name;
@@ -260,7 +261,7 @@
     const guessNorm = normalize(raw);
     if (guessNorm === normalize(state.team.name)) {
       state.teamSolved = true;
-      revealTeamBanner();
+      revealTeamBanner(true);
       setFeedback(`Correct — it's the ${state.team.name}!`, true);
       els.teamInput.value = '';
       checkWin();
@@ -282,7 +283,7 @@
       if (cell.pick && !cell.solved) cell.solved = true;
     });
     renderGrid();
-    if (!state.teamSolved) revealTeamBanner();
+    if (!state.teamSolved) revealTeamBanner(false);
 
     setTimeout(() => showSummary(won), won ? 400 : 200);
   }
@@ -312,9 +313,10 @@
         row.className = 'summary-row none';
         row.innerHTML = `<span class="year">${cell.year}</span><span>No picks that year</span>`;
       } else {
-        row.className = 'summary-row correct';
+        row.className = 'summary-row ' + (cell.guessedCorrectly ? 'correct' : 'missed');
         const roundNote = cell.pick.round === 2 ? ' &middot; 2nd round' : '';
-        row.innerHTML = `<span class="year">${cell.year}</span><span>${cell.pick.player} <span style="opacity:.6">(${cell.pick.school}${roundNote})</span></span>`;
+        const mark = cell.guessedCorrectly ? '' : '<span style="opacity:.6"> — missed</span>';
+        row.innerHTML = `<span class="year">${cell.year}</span><span>${cell.pick.player} <span style="opacity:.6">(${cell.pick.school}${roundNote})</span>${mark}</span>`;
       }
       els.summaryGrid.appendChild(row);
     });
