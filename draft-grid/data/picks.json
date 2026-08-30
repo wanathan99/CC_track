@@ -32,97 +32,115 @@
           "player": "Keith Benson",
           "school": "Oakland",
           "round": 2,
-          "logo": "assets/logos/cbb/2/cbb-oakland-1998-2012.png"
+          "logo": "assets/logos/cbb/2/cbb-oakland-1998-2012.png",
+          "aliases": []
         },
         "2012": {
           "player": "John Jenkins",
           "school": "Vanderbilt",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "aliases": []
         },
         "2013": {
           "player": "Lucas Nogueira",
           "school": "Estudiantes",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Club_Baloncesto_Estudiantes_Madrid_%28logo%29.svg/250px-Club_Baloncesto_Estudiantes_Madrid_%28logo%29.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Club_Baloncesto_Estudiantes_Madrid_%28logo%29.svg/250px-Club_Baloncesto_Estudiantes_Madrid_%28logo%29.svg.png",
+          "aliases": []
         },
         "2014": {
           "player": "Adreian Payne",
           "school": "Michigan State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2015": {
           "player": "Kelly Oubre Jr.",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2016": {
           "player": "Taurean Prince",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2017": {
           "player": "John Collins",
           "school": "Wake Forest",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+          "aliases": []
         },
         "2018": {
           "player": "Trae Young",
           "school": "Oklahoma",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+          "aliases": [
+            "Ice Trae"
+          ]
         },
         "2019": {
           "player": "De'Andre Hunter",
           "school": "Virginia",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+          "aliases": []
         },
         "2020": {
           "player": "Onyeka Okongwu",
           "school": "USC",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+          "aliases": []
         },
         "2021": {
           "player": "Jalen Johnson",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2022": {
           "player": "AJ Griffin",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2023": {
           "player": "Kobe Bufkin",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2024": {
           "player": "Zaccharie Risacher",
           "school": "JL Bourg",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-jl-bourg.png"
+          "logo": "assets/logos/nba/nba-draft-jl-bourg.png",
+          "aliases": []
         },
         "2025": {
           "player": "Derik Queen",
           "school": "Maryland",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "aliases": []
         },
         "2026": {
           "player": "Kingston Flemings",
           "school": "Houston",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+          "aliases": []
         }
       }
     },
@@ -140,97 +158,117 @@
           "player": "MarShon Brooks",
           "school": "Providence",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png"
+          "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png",
+          "aliases": []
         },
         "2012": {
           "player": "Jared Sullinger",
           "school": "Ohio State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+          "aliases": []
         },
         "2013": {
           "player": "Kelly Olynyk",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2014": {
           "player": "Marcus Smart",
           "school": "Oklahoma State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+          "aliases": []
         },
         "2015": {
           "player": "Terry Rozier",
           "school": "Louisville",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+          "aliases": [
+            "Scary Terry"
+          ]
         },
         "2016": {
           "player": "Jaylen Brown",
           "school": "California",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+          "aliases": []
         },
         "2017": {
           "player": "Jayson Tatum",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": [
+            "JT"
+          ]
         },
         "2018": {
           "player": "Robert Williams III",
           "school": "Texas A&M",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-texasam-2009-2020.png"
+          "logo": "assets/logos/cfb/2/cfb-texasam-2009-2020.png",
+          "aliases": []
         },
         "2019": {
           "player": "Romeo Langford",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": []
         },
         "2020": {
           "player": "Aaron Nesmith",
           "school": "Vanderbilt",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "aliases": []
         },
         "2021": {
           "player": "Juhann Begarin",
           "school": "Paris",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/250px-Logo_Paris_Basketball.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/250px-Logo_Paris_Basketball.svg.png",
+          "aliases": []
         },
         "2022": {
           "player": "JD Davison",
           "school": "Alabama",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         },
         "2023": {
           "player": "Julian Phillips",
           "school": "Tennessee",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "aliases": []
         },
         "2024": {
           "player": "Baylor Scheierman",
           "school": "Creighton",
           "round": 1,
-          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png",
+          "aliases": []
         },
         "2025": {
           "player": "Hugo Gonzalez",
           "school": "Real Madrid",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-real-madrid.png"
+          "logo": "assets/logos/nba/nba-draft-real-madrid.png",
+          "aliases": []
         },
         "2026": {
           "player": "Chris Cenac Jr.",
           "school": "Houston",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+          "aliases": []
         }
       }
     },
@@ -248,82 +286,97 @@
           "player": "JaJuan Johnson",
           "school": "Purdue",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png"
+          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
+          "aliases": []
         },
         "2012": {
           "player": "Tornike Shengelia",
           "school": "Spirou Charleroi",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Belgacom_Spirou_logo.png/250px-Belgacom_Spirou_logo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Belgacom_Spirou_logo.png/250px-Belgacom_Spirou_logo.png",
+          "aliases": []
         },
         "2013": {
           "player": "Mason Plumlee",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2014": null,
         "2015": {
           "player": "Rondae Hollis-Jefferson",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2016": {
           "player": "Caris LeVert",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2017": {
           "player": "Jarrett Allen",
           "school": "Texas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+          "aliases": [
+            "Fro"
+          ]
         },
         "2018": {
           "player": "Dzanan Musa",
           "school": "Cedevita Zagreb",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/KK_Cedevita_logo.svg/250px-KK_Cedevita_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/KK_Cedevita_logo.svg/250px-KK_Cedevita_logo.svg.png",
+          "aliases": []
         },
         "2019": {
           "player": "Nic Claxton",
           "school": "Georgia",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+          "aliases": []
         },
         "2020": {
           "player": "Jay Scrubb",
           "school": "John A. Logan",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/JohnALoganCollegeLogo.jpeg"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/JohnALoganCollegeLogo.jpeg",
+          "aliases": []
         },
         "2021": {
           "player": "Cam Thomas",
           "school": "LSU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+          "aliases": []
         },
         "2022": null,
         "2023": {
           "player": "Noah Clowney",
           "school": "Alabama",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         },
         "2024": null,
         "2025": {
           "player": "Egor Demin",
           "school": "BYU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+          "aliases": []
         },
         "2026": {
           "player": "Mikel Brown Jr.",
           "school": "Louisville",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+          "aliases": []
         }
       }
     },
@@ -341,92 +394,111 @@
           "player": "Kemba Walker",
           "school": "Connecticut",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2012": {
           "player": "Michael Kidd-Gilchrist",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2013": {
           "player": "Cody Zeller",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": []
         },
         "2014": {
           "player": "Noah Vonleh",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": []
         },
         "2015": {
           "player": "Frank Kaminsky",
           "school": "Wisconsin",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+          "aliases": []
         },
         "2016": null,
         "2017": {
           "player": "Malik Monk",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2018": {
           "player": "Miles Bridges",
           "school": "Michigan State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2019": {
           "player": "P.J. Washington",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "PJ"
+          ]
         },
         "2020": {
           "player": "LaMelo Ball",
           "school": "Illawarra Hawks",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png"
+          "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png",
+          "aliases": [
+            "Melo"
+          ]
         },
         "2021": {
           "player": "James Bouknight",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2022": {
           "player": "Mark Williams",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2023": {
           "player": "Brandon Miller",
           "school": "Alabama",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         },
         "2024": {
           "player": "Tidjane Salaun",
           "school": "Cholet Basket",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Cholet_Basket_2019_logo.png/250px-Cholet_Basket_2019_logo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Cholet_Basket_2019_logo.png/250px-Cholet_Basket_2019_logo.png",
+          "aliases": []
         },
         "2025": {
           "player": "Kon Knueppel",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2026": {
           "player": "Hannes Steinbach",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         }
       }
     },
@@ -444,92 +516,109 @@
           "player": "Norris Cole",
           "school": "Cleveland State",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cleveland_State_Vikings_wordmark.svg/250px-Cleveland_State_Vikings_wordmark.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cleveland_State_Vikings_wordmark.svg/250px-Cleveland_State_Vikings_wordmark.svg.png",
+          "aliases": []
         },
         "2012": {
           "player": "Marquis Teague",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2013": {
           "player": "Tony Snell",
           "school": "New Mexico",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
+          "aliases": []
         },
         "2014": {
           "player": "Doug McDermott",
           "school": "Creighton",
           "round": 1,
-          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png",
+          "aliases": []
         },
         "2015": {
           "player": "Bobby Portis",
           "school": "Arkansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+          "aliases": []
         },
         "2016": {
           "player": "Denzel Valentine",
           "school": "Michigan State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2017": {
           "player": "Lauri Markkanen",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": [
+            "The Finnisher"
+          ]
         },
         "2018": {
           "player": "Wendell Carter Jr.",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2019": {
           "player": "Coby White",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2020": {
           "player": "Patrick Williams",
           "school": "Florida State",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png"
+          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
+          "aliases": []
         },
         "2021": {
           "player": "Ayo Dosunmu",
           "school": "Illinois",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+          "aliases": []
         },
         "2022": {
           "player": "Dalen Terry",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2023": null,
         "2024": {
           "player": "Matas Buzelis",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2025": {
           "player": "Noa Essengue",
           "school": "Ratiopharm Ulm",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png",
+          "aliases": []
         },
         "2026": {
           "player": "Caleb Wilson",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         }
       }
     },
@@ -547,92 +636,109 @@
           "player": "Kyrie Irving",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": [
+            "Uncle Drew"
+          ]
         },
         "2012": {
           "player": "Dion Waiters",
           "school": "Syracuse",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+          "aliases": []
         },
         "2013": {
           "player": "Anthony Bennett",
           "school": "UNLV",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+          "aliases": []
         },
         "2014": {
           "player": "Andrew Wiggins",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2015": {
           "player": "Cedi Osman",
           "school": "Anadolu Efes",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/250px-Anadolu_Efes_SK_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/250px-Anadolu_Efes_SK_logo.svg.png",
+          "aliases": []
         },
         "2016": {
           "player": "Kay Felder",
           "school": "Oakland",
           "round": 2,
-          "logo": "assets/logos/cbb/2/cbb-oakland-1998-2012.png"
+          "logo": "assets/logos/cbb/2/cbb-oakland-1998-2012.png",
+          "aliases": []
         },
         "2017": null,
         "2018": {
           "player": "Collin Sexton",
           "school": "Alabama",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         },
         "2019": {
           "player": "Darius Garland",
           "school": "Vanderbilt",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "aliases": []
         },
         "2020": {
           "player": "Isaac Okoro",
           "school": "Auburn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+          "aliases": []
         },
         "2021": {
           "player": "Evan Mobley",
           "school": "USC",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+          "aliases": []
         },
         "2022": {
           "player": "Ochai Agbaji",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2023": {
           "player": "Emoni Bates",
           "school": "Eastern Michigan",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+          "aliases": []
         },
         "2024": {
           "player": "Jaylon Tyson",
           "school": "California",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+          "aliases": []
         },
         "2025": {
           "player": "Tyrese Proctor",
           "school": "Duke",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2026": {
           "player": "Alex Karaban",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         }
       }
     },
@@ -650,56 +756,68 @@
           "player": "Jordan Hamilton",
           "school": "Texas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+          "aliases": []
         },
         "2012": {
           "player": "Jared Cunningham",
           "school": "Oregon State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+          "aliases": []
         },
         "2013": {
           "player": "Shane Larkin",
           "school": "Miami",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+          "aliases": []
         },
         "2014": null,
         "2015": {
           "player": "Justin Anderson",
           "school": "Virginia",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+          "aliases": []
         },
         "2016": {
           "player": "A.J. Hammons",
           "school": "Purdue",
           "round": 2,
-          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png"
+          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
+          "aliases": []
         },
         "2017": {
           "player": "Dennis Smith Jr.",
           "school": "NC State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+          "aliases": []
         },
         "2018": {
           "player": "Luka Doncic",
           "school": "Real Madrid",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-real-madrid.png"
+          "logo": "assets/logos/nba/nba-draft-real-madrid.png",
+          "aliases": [
+            "Luka Magic",
+            "Luka"
+          ]
         },
         "2019": {
           "player": "Isaiah Roby",
           "school": "Nebraska",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+          "aliases": []
         },
         "2020": {
           "player": "Josh Green",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2021": null,
         "2022": null,
@@ -707,25 +825,29 @@
           "player": "Dereck Lively II",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2024": {
           "player": "Ariel Hukporti",
           "school": "MHP Riesen Ludwigsburg",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/MHP_Riesen_Ludwigsburg_logo.svg/250px-MHP_Riesen_Ludwigsburg_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/MHP_Riesen_Ludwigsburg_logo.svg/250px-MHP_Riesen_Ludwigsburg_logo.svg.png",
+          "aliases": []
         },
         "2025": {
           "player": "Cooper Flagg",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2026": {
           "player": "Morez Johnson Jr.",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         }
       }
     },
@@ -743,74 +865,88 @@
           "player": "Kenneth Faried",
           "school": "Morehead State",
           "round": 1,
-          "logo": "assets/logos/cbb/2/cbb-morehead-state-2005-2025.png"
+          "logo": "assets/logos/cbb/2/cbb-morehead-state-2005-2025.png",
+          "aliases": []
         },
         "2012": {
           "player": "Evan Fournier",
           "school": "Poitiers Basket",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Poitiers_Basket_logo_18.png/250px-Poitiers_Basket_logo_18.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Poitiers_Basket_logo_18.png/250px-Poitiers_Basket_logo_18.png",
+          "aliases": []
         },
         "2013": null,
         "2014": {
           "player": "Jusuf Nurkic",
           "school": "Cedevita Zagreb",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/KK_Cedevita_logo.svg/250px-KK_Cedevita_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/KK_Cedevita_logo.svg/250px-KK_Cedevita_logo.svg.png",
+          "aliases": []
         },
         "2015": {
           "player": "Emmanuel Mudiay",
           "school": "Guangdong Southern Tigers",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Guangdong_Southern_Tigers.png/250px-Guangdong_Southern_Tigers.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Guangdong_Southern_Tigers.png/250px-Guangdong_Southern_Tigers.png",
+          "aliases": []
         },
         "2016": {
           "player": "Jamal Murray",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2017": {
           "player": "Tyler Lydon",
           "school": "Syracuse",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+          "aliases": []
         },
         "2018": {
           "player": "Michael Porter Jr.",
           "school": "Missouri",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png"
+          "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png",
+          "aliases": [
+            "MPJ"
+          ]
         },
         "2019": {
           "player": "Bol Bol",
           "school": "Oregon",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+          "aliases": []
         },
         "2020": {
           "player": "Zeke Nnaji",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2021": {
           "player": "Bones Hyland",
           "school": "VCU",
           "round": 1,
-          "logo": "assets/logos/cbb/4/cbb-vcu-2014-2025.png"
+          "logo": "assets/logos/cbb/4/cbb-vcu-2014-2025.png",
+          "aliases": []
         },
         "2022": {
           "player": "Christian Braun",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2023": {
           "player": "Julian Strawther",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2024": null,
         "2025": null,
@@ -818,7 +954,8 @@
           "player": "Tarris Reed Jr.",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         }
       }
     },
@@ -836,97 +973,113 @@
           "player": "Brandon Knight",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2012": {
           "player": "Andre Drummond",
           "school": "Connecticut",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2013": {
           "player": "Kentavious Caldwell-Pope",
           "school": "Georgia",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+          "aliases": []
         },
         "2014": {
           "player": "Spencer Dinwiddie",
           "school": "Colorado",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+          "aliases": []
         },
         "2015": {
           "player": "Stanley Johnson",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2016": {
           "player": "Henry Ellenson",
           "school": "Marquette",
           "round": 1,
-          "logo": "assets/logos/cbb/2/cbb-marquette-2005-2025.png"
+          "logo": "assets/logos/cbb/2/cbb-marquette-2005-2025.png",
+          "aliases": []
         },
         "2017": {
           "player": "Luke Kennard",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2018": {
           "player": "Khyri Thomas",
           "school": "Creighton",
           "round": 2,
-          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png",
+          "aliases": []
         },
         "2019": {
           "player": "Sekou Doumbouya",
           "school": "Limoges CSP",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg/250px-Logo_Limoges_Cercle_Saint-Pierre.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg/250px-Logo_Limoges_Cercle_Saint-Pierre.svg.png",
+          "aliases": []
         },
         "2020": {
           "player": "Killian Hayes",
           "school": "Ratiopharm Ulm",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png",
+          "aliases": []
         },
         "2021": {
           "player": "Cade Cunningham",
           "school": "Oklahoma State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+          "aliases": []
         },
         "2022": {
           "player": "Jaden Ivey",
           "school": "Purdue",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png"
+          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
+          "aliases": []
         },
         "2023": {
           "player": "Ausar Thompson",
           "school": "Overtime Elite",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/OvertimeEliteLogo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/OvertimeEliteLogo.png",
+          "aliases": []
         },
         "2024": {
           "player": "Ron Holland",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2025": {
           "player": "Chaz Lanier",
           "school": "Tennessee",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "aliases": []
         },
         "2026": {
           "player": "Karim Lopez",
           "school": "New Zealand Breakers",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/New_Zealand_Breakers_Logo_2026.webp/250px-New_Zealand_Breakers_Logo_2026.webp.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/New_Zealand_Breakers_Logo_2026.webp/250px-New_Zealand_Breakers_Logo_2026.webp.png",
+          "aliases": []
         }
       }
     },
@@ -944,92 +1097,109 @@
           "player": "Klay Thompson",
           "school": "Washington State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+          "aliases": [
+            "Klay"
+          ]
         },
         "2012": {
           "player": "Harrison Barnes",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2013": {
           "player": "Nemanja Nedovic",
           "school": "Lietuvos Rytas",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/250px-BC_Rytas_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/250px-BC_Rytas_logo.svg.png",
+          "aliases": []
         },
         "2014": null,
         "2015": {
           "player": "Kevon Looney",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2016": {
           "player": "Damian Jones",
           "school": "Vanderbilt",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "aliases": []
         },
         "2017": {
           "player": "Jordan Bell",
           "school": "Oregon",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+          "aliases": []
         },
         "2018": {
           "player": "Jacob Evans",
           "school": "Cincinnati",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+          "aliases": []
         },
         "2019": {
           "player": "Jordan Poole",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2020": {
           "player": "James Wiseman",
           "school": "Memphis",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+          "aliases": []
         },
         "2021": {
           "player": "Jonathan Kuminga",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2022": {
           "player": "Patrick Baldwin Jr.",
           "school": "Milwaukee",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/270.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/270.png",
+          "aliases": []
         },
         "2023": {
           "player": "Brandin Podziemski",
           "school": "Santa Clara",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-santaclara-2004-2016.png"
+          "logo": "assets/logos/cbb/3/cbb-santaclara-2004-2016.png",
+          "aliases": []
         },
         "2024": {
           "player": "Quinten Post",
           "school": "Boston College",
           "round": 2,
-          "logo": "assets/logos/cfb/1/cfb-bostoncollege-2000-2015.png"
+          "logo": "assets/logos/cfb/1/cfb-bostoncollege-2000-2015.png",
+          "aliases": []
         },
         "2025": {
           "player": "Koby Brea",
           "school": "Kentucky",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2026": {
           "player": "Yaxel Lendeborg",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         }
       }
     },
@@ -1047,49 +1217,57 @@
           "player": "Marcus Morris",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2012": {
           "player": "Jeremy Lamb",
           "school": "Connecticut",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2013": {
           "player": "Isaiah Canaan",
           "school": "Murray State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png",
+          "aliases": []
         },
         "2014": {
           "player": "Clint Capela",
           "school": "Elan Chalon",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/%C3%89lan_Chalon_logo_%282018%29.png/250px-%C3%89lan_Chalon_logo_%282018%29.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/%C3%89lan_Chalon_logo_%282018%29.png/250px-%C3%89lan_Chalon_logo_%282018%29.png",
+          "aliases": []
         },
         "2015": {
           "player": "Sam Dekker",
           "school": "Wisconsin",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+          "aliases": []
         },
         "2016": {
           "player": "Chinanu Onuaku",
           "school": "Louisville",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+          "aliases": []
         },
         "2017": {
           "player": "Isaiah Hartenstein",
           "school": "Zalgiris",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/250px-BC_%C5%BDalgiris_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_%C5%BDalgiris_logo.svg/250px-BC_%C5%BDalgiris_logo.svg.png",
+          "aliases": []
         },
         "2018": {
           "player": "De'Anthony Melton",
           "school": "USC",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+          "aliases": []
         },
         "2019": null,
         "2020": null,
@@ -1097,37 +1275,43 @@
           "player": "Jalen Green",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2022": {
           "player": "Jabari Smith Jr.",
           "school": "Auburn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+          "aliases": []
         },
         "2023": {
           "player": "Amen Thompson",
           "school": "Overtime Elite",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/OvertimeEliteLogo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/OvertimeEliteLogo.png",
+          "aliases": []
         },
         "2024": {
           "player": "Reed Sheppard",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2025": {
           "player": "Khaman Maluach",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2026": {
           "player": "Jack Kayil",
           "school": "Alba Berlin",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/250px-Alba_Berlin_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/250px-Alba_Berlin_logo.svg.png",
+          "aliases": []
         }
       }
     },
@@ -1146,85 +1330,99 @@
           "player": "Miles Plumlee",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2013": {
           "player": "Solomon Hill",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2014": {
           "player": "Louis Labeyrie",
           "school": "Paris-Levallois Basket",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Metropolitans_92_logo.png/250px-Metropolitans_92_logo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Metropolitans_92_logo.png/250px-Metropolitans_92_logo.png",
+          "aliases": []
         },
         "2015": {
           "player": "Myles Turner",
           "school": "Texas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+          "aliases": []
         },
         "2016": {
           "player": "Georges Niang",
           "school": "Iowa State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+          "aliases": []
         },
         "2017": {
           "player": "T.J. Leaf",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2018": {
           "player": "Aaron Holiday",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2019": {
           "player": "Goga Bitadze",
           "school": "Mega Basket",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/250px-Mega-logo-2020.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/250px-Mega-logo-2020.png",
+          "aliases": []
         },
         "2020": {
           "player": "Cassius Stanley",
           "school": "Duke",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2021": {
           "player": "Chris Duarte",
           "school": "Oregon",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+          "aliases": []
         },
         "2022": {
           "player": "Bennedict Mathurin",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2023": {
           "player": "Jarace Walker",
           "school": "Houston",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+          "aliases": []
         },
         "2024": {
           "player": "Juan Nunez",
           "school": "Ratiopharm Ulm",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png",
+          "aliases": []
         },
         "2025": {
           "player": "Taelon Peter",
           "school": "Liberty",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
+          "aliases": []
         },
         "2026": null
       }
@@ -1243,92 +1441,109 @@
           "player": "Trey Thompkins",
           "school": "Georgia",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+          "aliases": []
         },
         "2012": {
           "player": "Furkan Aldemir",
           "school": "Galatasaray",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Galatasaray_MCT_Technic_logo.png/250px-Galatasaray_MCT_Technic_logo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Galatasaray_MCT_Technic_logo.png/250px-Galatasaray_MCT_Technic_logo.png",
+          "aliases": []
         },
         "2013": {
           "player": "Reggie Bullock",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2014": {
           "player": "C.J. Wilcox",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2015": null,
         "2016": {
           "player": "Brice Johnson",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2017": {
           "player": "Jawun Evans",
           "school": "Oklahoma State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+          "aliases": []
         },
         "2018": {
           "player": "Shai Gilgeous-Alexander",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "SGA"
+          ]
         },
         "2019": {
           "player": "Mfiondu Kabengele",
           "school": "Florida State",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png"
+          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
+          "aliases": []
         },
         "2020": {
           "player": "Reggie Perry",
           "school": "Mississippi State",
           "round": 2,
-          "logo": "assets/logos/cbb/2/cbb-mississippi-state-2009-2019.png"
+          "logo": "assets/logos/cbb/2/cbb-mississippi-state-2009-2019.png",
+          "aliases": []
         },
         "2021": {
           "player": "Quentin Grimes",
           "school": "Houston",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+          "aliases": []
         },
         "2022": {
           "player": "Moussa Diabate",
           "school": "Michigan",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2023": {
           "player": "Kobe Brown",
           "school": "Missouri",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png"
+          "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png",
+          "aliases": []
         },
         "2024": {
           "player": "Cam Christie",
           "school": "Minnesota",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+          "aliases": []
         },
         "2025": {
           "player": "Yanic Konan Niederhauser",
           "school": "Penn State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+          "aliases": []
         },
         "2026": {
           "player": "Keaton Wagler",
           "school": "Illinois",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+          "aliases": []
         }
       }
     },
@@ -1346,92 +1561,112 @@
           "player": "Darius Morris",
           "school": "Michigan",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2012": {
           "player": "Darius Johnson-Odom",
           "school": "Marquette",
           "round": 2,
-          "logo": "assets/logos/cbb/2/cbb-marquette-2005-2025.png"
+          "logo": "assets/logos/cbb/2/cbb-marquette-2005-2025.png",
+          "aliases": []
         },
         "2013": {
           "player": "Ryan Kelly",
           "school": "Duke",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2014": {
           "player": "Julius Randle",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2015": {
           "player": "D'Angelo Russell",
           "school": "Ohio State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+          "aliases": [
+            "DLo",
+            "D'Lo"
+          ]
         },
         "2016": {
           "player": "Brandon Ingram",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2017": {
           "player": "Lonzo Ball",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": [
+            "Zo"
+          ]
         },
         "2018": {
           "player": "Moritz Wagner",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2019": {
           "player": "Talen Horton-Tucker",
           "school": "Iowa State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+          "aliases": []
         },
         "2020": null,
         "2021": {
           "player": "Isaiah Jackson",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2022": {
           "player": "Max Christie",
           "school": "Michigan State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2023": {
           "player": "Jalen Hood-Schifino",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": []
         },
         "2024": {
           "player": "Dalton Knecht",
           "school": "Tennessee",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "aliases": []
         },
         "2025": {
           "player": "Lachlan Olbrich",
           "school": "Illawarra Hawks",
           "round": 2,
-          "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png"
+          "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png",
+          "aliases": []
         },
         "2026": {
           "player": "Sergio de Larrea",
           "school": "Valencia",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Valencia_Basket_%2840_anys%29.svg/250px-Valencia_Basket_%2840_anys%29.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Valencia_Basket_%2840_anys%29.svg/250px-Valencia_Basket_%2840_anys%29.svg.png",
+          "aliases": []
         }
       }
     },
@@ -1449,97 +1684,117 @@
           "player": "Josh Selby",
           "school": "Kansas",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2012": {
           "player": "Tony Wroten",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2013": {
           "player": "Jamaal Franklin",
           "school": "San Diego State",
           "round": 2,
-          "logo": "assets/logos/cfb/2/cfb-sandiegostate-2002-2012.png"
+          "logo": "assets/logos/cfb/2/cfb-sandiegostate-2002-2012.png",
+          "aliases": []
         },
         "2014": {
           "player": "Jordan Adams",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2015": {
           "player": "Jarell Martin",
           "school": "LSU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+          "aliases": []
         },
         "2016": {
           "player": "Wade Baldwin",
           "school": "Vanderbilt",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "aliases": []
         },
         "2017": {
           "player": "Ivan Rabb",
           "school": "California",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+          "aliases": []
         },
         "2018": {
           "player": "Jaren Jackson Jr.",
           "school": "Michigan State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": [
+            "JJJ"
+          ]
         },
         "2019": {
           "player": "Ja Morant",
           "school": "Murray State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png",
+          "aliases": [
+            "Ja"
+          ]
         },
         "2020": {
           "player": "Desmond Bane",
           "school": "TCU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+          "aliases": []
         },
         "2021": {
           "player": "Trey Murphy III",
           "school": "Virginia",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+          "aliases": []
         },
         "2022": {
           "player": "Jake LaRavia",
           "school": "Wake Forest",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+          "aliases": []
         },
         "2023": {
           "player": "GG Jackson",
           "school": "South Carolina",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+          "aliases": []
         },
         "2024": {
           "player": "Zach Edey",
           "school": "Purdue",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png"
+          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
+          "aliases": []
         },
         "2025": {
           "player": "Yang Hansen",
           "school": "Qingdao Eagles",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Qingdao_Eagles.svg/250px-Qingdao_Eagles.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Qingdao_Eagles.svg/250px-Qingdao_Eagles.svg.png",
+          "aliases": []
         },
         "2026": {
           "player": "Cameron Boozer",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         }
       }
     },
@@ -1558,71 +1813,86 @@
           "player": "Justin Hamilton",
           "school": "LSU",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+          "aliases": []
         },
         "2013": null,
         "2014": {
           "player": "Shabazz Napier",
           "school": "Connecticut",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2015": {
           "player": "Justise Winslow",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2016": null,
         "2017": {
           "player": "Bam Adebayo",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "Bam"
+          ]
         },
         "2018": null,
         "2019": {
           "player": "Tyler Herro",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "Rio"
+          ]
         },
         "2020": {
           "player": "Precious Achiuwa",
           "school": "Memphis",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+          "aliases": []
         },
         "2021": null,
         "2022": {
           "player": "Nikola Jovic",
           "school": "Mega Basket",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/250px-Mega-logo-2020.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/250px-Mega-logo-2020.png",
+          "aliases": []
         },
         "2023": {
           "player": "Jaime Jaquez Jr.",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2024": {
           "player": "Kel'el Ware",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": []
         },
         "2025": {
           "player": "Kasparas Jakucionis",
           "school": "Illinois",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+          "aliases": []
         },
         "2026": {
           "player": "Nate Ament",
           "school": "Tennessee",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "aliases": []
         }
       }
     },
@@ -1640,92 +1910,110 @@
           "player": "Jimmer Fredette",
           "school": "BYU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+          "aliases": []
         },
         "2012": {
           "player": "John Henson",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2013": {
           "player": "Giannis Antetokounmpo",
           "school": "Filathlitikos",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/E.F.A.O._Zografou_BC.jpg/250px-E.F.A.O._Zografou_BC.jpg"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/E.F.A.O._Zografou_BC.jpg/250px-E.F.A.O._Zografou_BC.jpg",
+          "aliases": [
+            "Greek Freak",
+            "Giannis"
+          ]
         },
         "2014": {
           "player": "Jabari Parker",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2015": {
           "player": "Rashad Vaughn",
           "school": "UNLV",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+          "aliases": []
         },
         "2016": {
           "player": "Thon Maker",
           "school": "Athlete Institute",
           "round": 1,
-          "logo": "https://images.squarespace-cdn.com/content/v1/635dec9308cab54e82a6bb96/77931a54-f354-4c1c-95c3-8a10f95a3598/Athlete+Institute+Inc+Logo+-+Grey+Wordmark.png?format=500w"
+          "logo": "https://images.squarespace-cdn.com/content/v1/635dec9308cab54e82a6bb96/77931a54-f354-4c1c-95c3-8a10f95a3598/Athlete+Institute+Inc+Logo+-+Grey+Wordmark.png?format=500w",
+          "aliases": []
         },
         "2017": {
           "player": "D.J. Wilson",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2018": {
           "player": "Donte DiVincenzo",
           "school": "Villanova",
           "round": 1,
-          "logo": "assets/logos/cbb/4/cbb-villanova-2004-2025.png"
+          "logo": "assets/logos/cbb/4/cbb-villanova-2004-2025.png",
+          "aliases": []
         },
         "2019": null,
         "2020": {
           "player": "Jordan Nwora",
           "school": "Louisville",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+          "aliases": []
         },
         "2021": {
           "player": "Isaiah Todd",
           "school": "NBA G League Ignite",
           "round": 2,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2022": {
           "player": "MarJon Beauchamp",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2023": {
           "player": "Chris Livingston",
           "school": "Kentucky",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2024": {
           "player": "AJ Johnson",
           "school": "Illawarra Hawks",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png"
+          "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png",
+          "aliases": []
         },
         "2025": {
           "player": "Bogoljub Markovic",
           "school": "Mega Basket",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/250px-Mega-logo-2020.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mega-logo-2020.png/250px-Mega-logo-2020.png",
+          "aliases": []
         },
         "2026": {
           "player": "Brayden Burries",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         }
       }
     },
@@ -1743,92 +2031,113 @@
           "player": "Derrick Williams",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2012": {
           "player": "Robbie Hummel",
           "school": "Purdue",
           "round": 2,
-          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png"
+          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
+          "aliases": []
         },
         "2013": {
           "player": "Shabazz Muhammad",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2014": {
           "player": "Zach LaVine",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2015": {
           "player": "Karl-Anthony Towns",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "KAT"
+          ]
         },
         "2016": {
           "player": "Kris Dunn",
           "school": "Providence",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png"
+          "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png",
+          "aliases": []
         },
         "2017": {
           "player": "Justin Patton",
           "school": "Creighton",
           "round": 1,
-          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png",
+          "aliases": []
         },
         "2018": {
           "player": "Josh Okogie",
           "school": "Georgia Tech",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+          "aliases": []
         },
         "2019": {
           "player": "Jarrett Culver",
           "school": "Texas Tech",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+          "aliases": []
         },
         "2020": {
           "player": "Anthony Edwards",
           "school": "Georgia",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+          "aliases": [
+            "Ant",
+            "Ant-Man",
+            "Antman"
+          ]
         },
         "2021": null,
         "2022": {
           "player": "Wendell Moore Jr.",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2023": {
           "player": "Jaylen Clark",
           "school": "UCLA",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2024": {
           "player": "Rob Dillingham",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2025": {
           "player": "Joan Beringer",
           "school": "Cedevita Olimpija",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cedevita_Olimpija_Ljubljana_logo.png",
+          "aliases": []
         },
         "2026": {
           "player": "Joshua Jefferson",
           "school": "Iowa State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+          "aliases": []
         }
       }
     },
@@ -1846,13 +2155,19 @@
           "player": "Josh Harrellson",
           "school": "Kentucky",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2012": {
           "player": "Anthony Davis",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "AD",
+            "The Brow",
+            "Brow"
+          ]
         },
         "2013": null,
         "2014": null,
@@ -1860,73 +2175,89 @@
           "player": "Branden Dawson",
           "school": "Michigan State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2016": {
           "player": "Buddy Hield",
           "school": "Oklahoma",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+          "aliases": [
+            "Buddy Buckets"
+          ]
         },
         "2017": {
           "player": "Dwayne Bacon",
           "school": "Florida State",
           "round": 2,
-          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png"
+          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
+          "aliases": []
         },
         "2018": {
           "player": "Tony Carr",
           "school": "Penn State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+          "aliases": []
         },
         "2019": {
           "player": "Zion Williamson",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": [
+            "Zion"
+          ]
         },
         "2020": {
           "player": "Kira Lewis Jr.",
           "school": "Alabama",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         },
         "2021": {
           "player": "Ziaire Williams",
           "school": "Stanford",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+          "aliases": []
         },
         "2022": {
           "player": "Dyson Daniels",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2023": {
           "player": "Jordan Hawkins",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2024": {
           "player": "Yves Missi",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2025": {
           "player": "Jeremiah Fears",
           "school": "Oklahoma",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+          "aliases": []
         },
         "2026": {
           "player": "Jaron Pierre Jr.",
           "school": "SMU",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SMU_Mustang_logo.svg/250px-SMU_Mustang_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SMU_Mustang_logo.svg/250px-SMU_Mustang_logo.svg.png",
+          "aliases": []
         }
       }
     },
@@ -1944,87 +2275,106 @@
           "player": "Iman Shumpert",
           "school": "Georgia Tech",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+          "aliases": []
         },
         "2012": {
           "player": "Kostas Papanikolaou",
           "school": "Olympiacos",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Olympiacos_BC_logo.svg/250px-Olympiacos_BC_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Olympiacos_BC_logo.svg/250px-Olympiacos_BC_logo.svg.png",
+          "aliases": []
         },
         "2013": {
           "player": "Tim Hardaway Jr.",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2014": {
           "player": "Cleanthony Early",
           "school": "Wichita State",
           "round": 2,
-          "logo": "assets/logos/cbb/5/cbb-wichitastate-2011-2025.png"
+          "logo": "assets/logos/cbb/5/cbb-wichitastate-2011-2025.png",
+          "aliases": []
         },
         "2015": {
           "player": "Kristaps Porzingis",
           "school": "Baloncesto Sevilla",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Logo_of_CB_Sevilla.png/250px-Logo_of_CB_Sevilla.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Logo_of_CB_Sevilla.png/250px-Logo_of_CB_Sevilla.png",
+          "aliases": [
+            "KP",
+            "Unicorn"
+          ]
         },
         "2016": null,
         "2017": {
           "player": "Frank Ntilikina",
           "school": "SIG Strasbourg",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_officiel_SIG_Strasbourg.png/250px-Logo_officiel_SIG_Strasbourg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_officiel_SIG_Strasbourg.png/250px-Logo_officiel_SIG_Strasbourg.png",
+          "aliases": []
         },
         "2018": {
           "player": "Kevin Knox II",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2019": {
           "player": "RJ Barrett",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": [
+            "RJ"
+          ]
         },
         "2020": {
           "player": "Obi Toppin",
           "school": "Dayton",
           "round": 1,
-          "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png",
+          "aliases": []
         },
         "2021": {
           "player": "Kai Jones",
           "school": "Texas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+          "aliases": []
         },
         "2022": {
           "player": "Trevor Keels",
           "school": "Duke",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2023": null,
         "2024": {
           "player": "Pacome Dadiet",
           "school": "Ratiopharm Ulm",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Ratiopharm_Ulm_logo.svg/250px-Ratiopharm_Ulm_logo.svg.png",
+          "aliases": []
         },
         "2025": {
           "player": "Kobe Sanders",
           "school": "Nevada",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+          "aliases": []
         },
         "2026": {
           "player": "Cameron Carr",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         }
       }
     },
@@ -2042,97 +2392,115 @@
           "player": "Reggie Jackson",
           "school": "Boston College",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-bostoncollege-2000-2015.png"
+          "logo": "assets/logos/cfb/1/cfb-bostoncollege-2000-2015.png",
+          "aliases": []
         },
         "2012": {
           "player": "Perry Jones III",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2013": {
           "player": "Steven Adams",
           "school": "Pittsburgh",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-pittsburgh-1997-2015.png"
+          "logo": "assets/logos/cfb/2/cfb-pittsburgh-1997-2015.png",
+          "aliases": []
         },
         "2014": {
           "player": "Mitch McGary",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2015": {
           "player": "Cameron Payne",
           "school": "Murray State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png",
+          "aliases": []
         },
         "2016": {
           "player": "Domantas Sabonis",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": [
+            "Domas"
+          ]
         },
         "2017": {
           "player": "Terrance Ferguson",
           "school": "Adelaide 36ers",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Adelaide_36ers_logo.svg/250px-Adelaide_36ers_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Adelaide_36ers_logo.svg/250px-Adelaide_36ers_logo.svg.png",
+          "aliases": []
         },
         "2018": {
           "player": "Devon Hall",
           "school": "Virginia",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+          "aliases": []
         },
         "2019": {
           "player": "Darius Bazley",
           "school": "Princeton HS",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/VikingHead2026.jpg/250px-VikingHead2026.jpg"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/VikingHead2026.jpg/250px-VikingHead2026.jpg",
+          "aliases": []
         },
         "2020": {
           "player": "Cassius Winston",
           "school": "Michigan State",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2021": {
           "player": "Josh Giddey",
           "school": "Adelaide 36ers",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Adelaide_36ers_logo.svg/250px-Adelaide_36ers_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Adelaide_36ers_logo.svg/250px-Adelaide_36ers_logo.svg.png",
+          "aliases": []
         },
         "2022": {
           "player": "Chet Holmgren",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2023": {
           "player": "Cason Wallace",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2024": {
           "player": "Nikola Topic",
           "school": "KK Crvena zvezda",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/250px-KK_Crvena_zvezda_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/250px-KK_Crvena_zvezda_logo.svg.png",
+          "aliases": []
         },
         "2025": {
           "player": "Thomas Sorber",
           "school": "Georgetown",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+          "aliases": []
         },
         "2026": {
           "player": "Aday Mara",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         }
       }
     },
@@ -2150,97 +2518,113 @@
           "player": "DeAndre Liggins",
           "school": "Kentucky",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2012": {
           "player": "Andrew Nicholson",
           "school": "St. Bonaventure",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-stbonaventure-1999-2016.png"
+          "logo": "assets/logos/cbb/3/cbb-stbonaventure-1999-2016.png",
+          "aliases": []
         },
         "2013": {
           "player": "Victor Oladipo",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": []
         },
         "2014": {
           "player": "Aaron Gordon",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2015": {
           "player": "Mario Hezonja",
           "school": "FC Barcelona",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-fc-barcelona.png"
+          "logo": "assets/logos/nba/nba-draft-fc-barcelona.png",
+          "aliases": []
         },
         "2016": {
           "player": "Stephen Zimmerman",
           "school": "UNLV",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+          "aliases": []
         },
         "2017": {
           "player": "Jonathan Isaac",
           "school": "Florida State",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png"
+          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
+          "aliases": []
         },
         "2018": {
           "player": "Mo Bamba",
           "school": "Texas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+          "aliases": []
         },
         "2019": {
           "player": "Chuma Okeke",
           "school": "Auburn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+          "aliases": []
         },
         "2020": {
           "player": "Cole Anthony",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2021": {
           "player": "Jalen Suggs",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2022": {
           "player": "Paolo Banchero",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2023": {
           "player": "Anthony Black",
           "school": "Arkansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+          "aliases": []
         },
         "2024": {
           "player": "Tristan da Silva",
           "school": "Colorado",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+          "aliases": []
         },
         "2025": {
           "player": "Jase Richardson",
           "school": "Michigan State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+          "aliases": []
         },
         "2026": {
           "player": "Felix Okpara",
           "school": "Tennessee",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "aliases": []
         }
       }
     },
@@ -2258,67 +2642,82 @@
           "player": "Nikola Vucevic",
           "school": "USC",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+          "aliases": []
         },
         "2012": {
           "player": "Maurice Harkless",
           "school": "St. John's",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-stjohns-2006-2015.png"
+          "logo": "assets/logos/cbb/3/cbb-stjohns-2006-2015.png",
+          "aliases": []
         },
         "2013": {
           "player": "Nerlens Noel",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2014": {
           "player": "Joel Embiid",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": [
+            "The Process",
+            "Jojo",
+            "JoJo"
+          ]
         },
         "2015": {
           "player": "Jahlil Okafor",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2016": {
           "player": "Ben Simmons",
           "school": "LSU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+          "aliases": []
         },
         "2017": {
           "player": "Markelle Fultz",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2018": {
           "player": "Zhaire Smith",
           "school": "Texas Tech",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+          "aliases": []
         },
         "2019": {
           "player": "Matisse Thybulle",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2020": {
           "player": "Tyrese Maxey",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2021": {
           "player": "Jaden Springer",
           "school": "Tennessee",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "aliases": []
         },
         "2022": null,
         "2023": null,
@@ -2326,19 +2725,22 @@
           "player": "Jared McCain",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2025": {
           "player": "V.J. Edgecombe",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2026": {
           "player": "Labaron Philon Jr.",
           "school": "Alabama",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         }
       }
     },
@@ -2356,92 +2758,111 @@
           "player": "Markieff Morris",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2012": {
           "player": "Kendall Marshall",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2013": {
           "player": "Alex Len",
           "school": "Maryland",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "aliases": []
         },
         "2014": {
           "player": "T.J. Warren",
           "school": "North Carolina State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+          "aliases": []
         },
         "2015": {
           "player": "Devin Booker",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "Book"
+          ]
         },
         "2016": {
           "player": "Dragan Bender",
           "school": "Maccabi Tel Aviv",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/250px-Maccabi_Tel_Aviv_BC_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/250px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+          "aliases": []
         },
         "2017": {
           "player": "Josh Jackson",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2018": {
           "player": "Deandre Ayton",
           "school": "Arizona",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": [
+            "DA"
+          ]
         },
         "2019": {
           "player": "Cameron Johnson",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2020": {
           "player": "Jalen Smith",
           "school": "Maryland",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "aliases": []
         },
         "2021": {
           "player": "Day'Ron Sharpe",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2022": null,
         "2023": {
           "player": "Toumani Camara",
           "school": "Dayton",
           "round": 2,
-          "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png",
+          "aliases": []
         },
         "2024": {
           "player": "DaRon Holmes II",
           "school": "Dayton",
           "round": 1,
-          "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png"
+          "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png",
+          "aliases": []
         },
         "2025": {
           "player": "Liam McNeeley",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2026": {
           "player": "Tyler Nickel",
           "school": "Vanderbilt",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "aliases": []
         }
       }
     },
@@ -2459,81 +2880,99 @@
           "player": "Nolan Smith",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2012": {
           "player": "Damian Lillard",
           "school": "Weber State",
           "round": 1,
-          "logo": "assets/logos/cbb/4/cbb-weberstate-2012-2022.png"
+          "logo": "assets/logos/cbb/4/cbb-weberstate-2012-2022.png",
+          "aliases": [
+            "Dame",
+            "Dame Time"
+          ]
         },
         "2013": {
           "player": "CJ McCollum",
           "school": "Lehigh",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lehigh_Mountain_Hawks_wordmark_Lehigh_flat.svg/250px-Lehigh_Mountain_Hawks_wordmark_Lehigh_flat.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lehigh_Mountain_Hawks_wordmark_Lehigh_flat.svg/250px-Lehigh_Mountain_Hawks_wordmark_Lehigh_flat.svg.png",
+          "aliases": [
+            "CJ"
+          ]
         },
         "2014": null,
         "2015": {
           "player": "Pat Connaughton",
           "school": "Notre Dame",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+          "aliases": []
         },
         "2016": {
           "player": "Jake Layman",
           "school": "Maryland",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+          "aliases": []
         },
         "2017": {
           "player": "Zach Collins",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2018": {
           "player": "Anfernee Simons",
           "school": "IMG Academy",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/IMG_Academy_Logo.svg/250px-IMG_Academy_Logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/IMG_Academy_Logo.svg/250px-IMG_Academy_Logo.svg.png",
+          "aliases": []
         },
         "2019": {
           "player": "Nassir Little",
           "school": "North Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+          "aliases": []
         },
         "2020": {
           "player": "Isaiah Stewart",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2021": null,
         "2022": {
           "player": "Shaedon Sharpe",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2023": {
           "player": "Scoot Henderson",
           "school": "NBA G League Ignite",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png"
+          "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+          "aliases": []
         },
         "2024": {
           "player": "Donovan Clingan",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2025": {
           "player": "Cedric Coward",
           "school": "Washington State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+          "aliases": []
         },
         "2026": null
       }
@@ -2552,97 +2991,119 @@
           "player": "Bismack Biyombo",
           "school": "Baloncesto Fuenlabrada",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Logo_of_Baloncesto_Fuenlabrada.png/250px-Logo_of_Baloncesto_Fuenlabrada.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Logo_of_Baloncesto_Fuenlabrada.png/250px-Logo_of_Baloncesto_Fuenlabrada.png",
+          "aliases": []
         },
         "2012": {
           "player": "Thomas Robinson",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2013": {
           "player": "Ben McLemore",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2014": {
           "player": "Nik Stauskas",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2015": {
           "player": "Willie Cauley-Stein",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2016": {
           "player": "Georgios Papagiannis",
           "school": "Panathinaikos",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/250px-Panathinaikos_BC_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Panathinaikos_BC_logo.svg/250px-Panathinaikos_BC_logo.svg.png",
+          "aliases": []
         },
         "2017": {
           "player": "De'Aaron Fox",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": [
+            "Swipa"
+          ]
         },
         "2018": {
           "player": "Marvin Bagley III",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": [
+            "MB3"
+          ]
         },
         "2019": {
           "player": "Justin James",
           "school": "Wyoming",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+          "aliases": []
         },
         "2020": {
           "player": "Tyrese Haliburton",
           "school": "Iowa State",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+          "aliases": [
+            "Tyrese"
+          ]
         },
         "2021": {
           "player": "Davion Mitchell",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2022": {
           "player": "Keegan Murray",
           "school": "Iowa",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+          "aliases": []
         },
         "2023": {
           "player": "Jordan Walsh",
           "school": "Arkansas",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+          "aliases": []
         },
         "2024": {
           "player": "Devin Carter",
           "school": "Providence",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png"
+          "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png",
+          "aliases": []
         },
         "2025": {
           "player": "Maxime Raynaud",
           "school": "Stanford",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+          "aliases": []
         },
         "2026": {
           "player": "Darius Acuff Jr.",
           "school": "Arkansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+          "aliases": []
         }
       }
     },
@@ -2660,97 +3121,118 @@
           "player": "Kawhi Leonard",
           "school": "San Diego State",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-sandiegostate-2002-2012.png"
+          "logo": "assets/logos/cfb/2/cfb-sandiegostate-2002-2012.png",
+          "aliases": [
+            "The Klaw",
+            "Klaw"
+          ]
         },
         "2012": {
           "player": "Marcus Denmon",
           "school": "Missouri",
           "round": 2,
-          "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png"
+          "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png",
+          "aliases": []
         },
         "2013": {
           "player": "Livio Jean-Charles",
           "school": "ASVEL Basket",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/LDLC_ASVEL_Basket.svg/250px-LDLC_ASVEL_Basket.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/LDLC_ASVEL_Basket.svg/250px-LDLC_ASVEL_Basket.svg.png",
+          "aliases": []
         },
         "2014": {
           "player": "Kyle Anderson",
           "school": "UCLA",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+          "aliases": []
         },
         "2015": {
           "player": "Nikola Milutinov",
           "school": "Partizan Belgrade",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/KK_Partizan_logo.svg/250px-KK_Partizan_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/KK_Partizan_logo.svg/250px-KK_Partizan_logo.svg.png",
+          "aliases": []
         },
         "2016": {
           "player": "Dejounte Murray",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2017": {
           "player": "Derrick White",
           "school": "Colorado",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+          "aliases": []
         },
         "2018": {
           "player": "Lonnie Walker IV",
           "school": "Miami",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+          "aliases": []
         },
         "2019": {
           "player": "Luka Samanic",
           "school": "Olimpija Ljubljana",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/KK_Olimpija_logo.svg/250px-KK_Olimpija_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/KK_Olimpija_logo.svg/250px-KK_Olimpija_logo.svg.png",
+          "aliases": []
         },
         "2020": {
           "player": "Devin Vassell",
           "school": "Florida State",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png"
+          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
+          "aliases": []
         },
         "2021": {
           "player": "Joshua Primo",
           "school": "Alabama",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+          "aliases": []
         },
         "2022": {
           "player": "Jeremy Sochan",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2023": {
           "player": "Victor Wembanyama",
           "school": "Metropolitans 92",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-metropolitans-92.png"
+          "logo": "assets/logos/nba/nba-draft-metropolitans-92.png",
+          "aliases": [
+            "Wemby"
+          ]
         },
         "2024": {
           "player": "Stephon Castle",
           "school": "UConn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "aliases": []
         },
         "2025": {
           "player": "Dylan Harper",
           "school": "Rutgers",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+          "aliases": []
         },
         "2026": {
           "player": "Jayden Quaintance",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         }
       }
     },
@@ -2768,87 +3250,103 @@
           "player": "Jonas Valanciunas",
           "school": "Lietuvos Rytas",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/250px-BC_Rytas_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/250px-BC_Rytas_logo.svg.png",
+          "aliases": []
         },
         "2012": {
           "player": "Terrence Ross",
           "school": "Washington",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+          "aliases": []
         },
         "2013": null,
         "2014": {
           "player": "Bruno Caboclo",
           "school": "EC Pinheiros",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Esporte_Clube_Pinheiros.svg/250px-Esporte_Clube_Pinheiros.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Esporte_Clube_Pinheiros.svg/250px-Esporte_Clube_Pinheiros.svg.png",
+          "aliases": []
         },
         "2015": {
           "player": "Delon Wright",
           "school": "Utah",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+          "aliases": []
         },
         "2016": {
           "player": "Jakob Poeltl",
           "school": "Utah",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+          "aliases": []
         },
         "2017": {
           "player": "OG Anunoby",
           "school": "Indiana",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+          "aliases": [
+            "OG"
+          ]
         },
         "2018": null,
         "2019": {
           "player": "Dewan Hernandez",
           "school": "Miami",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+          "aliases": []
         },
         "2020": {
           "player": "Malachi Flynn",
           "school": "San Diego State",
           "round": 1,
-          "logo": "assets/logos/cfb/2/cfb-sandiegostate-2002-2012.png"
+          "logo": "assets/logos/cfb/2/cfb-sandiegostate-2002-2012.png",
+          "aliases": []
         },
         "2021": {
           "player": "Scottie Barnes",
           "school": "Florida State",
           "round": 1,
-          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png"
+          "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
+          "aliases": []
         },
         "2022": {
           "player": "Christian Koloko",
           "school": "Arizona",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+          "aliases": []
         },
         "2023": {
           "player": "Gradey Dick",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2024": {
           "player": "Ja'Kobe Walter",
           "school": "Baylor",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "aliases": []
         },
         "2025": {
           "player": "Collin Murray-Boyles",
           "school": "South Carolina",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+          "aliases": []
         },
         "2026": {
           "player": "Allen Graves",
           "school": "Santa Clara",
           "round": 1,
-          "logo": "assets/logos/cbb/3/cbb-santaclara-2004-2016.png"
+          "logo": "assets/logos/cbb/3/cbb-santaclara-2004-2016.png",
+          "aliases": []
         }
       }
     },
@@ -2866,97 +3364,116 @@
           "player": "Enes Kanter",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2012": {
           "player": "Kevin Murphy",
           "school": "Tennessee Tech",
           "round": 2,
-          "logo": "assets/logos/cbb/3/cbb-tennesseetech-1997-2005.png"
+          "logo": "assets/logos/cbb/3/cbb-tennesseetech-1997-2005.png",
+          "aliases": []
         },
         "2013": {
           "player": "Trey Burke",
           "school": "Michigan",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+          "aliases": []
         },
         "2014": {
           "player": "Dante Exum",
           "school": "Australian Institute of Sport",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Australian_Institute_of_Sport_logo.svg/250px-Australian_Institute_of_Sport_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Australian_Institute_of_Sport_logo.svg/250px-Australian_Institute_of_Sport_logo.svg.png",
+          "aliases": []
         },
         "2015": {
           "player": "Trey Lyles",
           "school": "Kentucky",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+          "aliases": []
         },
         "2016": {
           "player": "Joel Bolomboy",
           "school": "Weber State",
           "round": 2,
-          "logo": "assets/logos/cbb/4/cbb-weberstate-2012-2022.png"
+          "logo": "assets/logos/cbb/4/cbb-weberstate-2012-2022.png",
+          "aliases": []
         },
         "2017": {
           "player": "Donovan Mitchell",
           "school": "Louisville",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+          "aliases": [
+            "Spida",
+            "Spida Mitchell"
+          ]
         },
         "2018": {
           "player": "Grayson Allen",
           "school": "Duke",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+          "aliases": []
         },
         "2019": {
           "player": "Jarrell Brantley",
           "school": "Charleston",
           "round": 2,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/College_of_Charleston_Cougars_logo.svg/250px-College_of_Charleston_Cougars_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/College_of_Charleston_Cougars_logo.svg/250px-College_of_Charleston_Cougars_logo.svg.png",
+          "aliases": []
         },
         "2020": {
           "player": "Udoka Azubuike",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         },
         "2021": {
           "player": "Santi Aldama",
           "school": "Loyola Maryland",
           "round": 1,
-          "logo": "assets/logos/cbb/2/cbb-loyola-maryland-1996-2010.png"
+          "logo": "assets/logos/cbb/2/cbb-loyola-maryland-1996-2010.png",
+          "aliases": []
         },
         "2022": {
           "player": "Walker Kessler",
           "school": "Auburn",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+          "aliases": []
         },
         "2023": {
           "player": "Taylor Hendricks",
           "school": "UCF",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+          "aliases": []
         },
         "2024": {
           "player": "Cody Williams",
           "school": "Colorado",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+          "aliases": []
         },
         "2025": {
           "player": "Ace Bailey",
           "school": "Rutgers",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+          "aliases": []
         },
         "2026": {
           "player": "Darryn Peterson",
           "school": "Kansas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+          "aliases": []
         }
       }
     },
@@ -2974,26 +3491,30 @@
           "player": "Jan Vesely",
           "school": "Partizan Belgrade",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/KK_Partizan_logo.svg/250px-KK_Partizan_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/KK_Partizan_logo.svg/250px-KK_Partizan_logo.svg.png",
+          "aliases": []
         },
         "2012": {
           "player": "Bradley Beal",
           "school": "Florida",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+          "aliases": []
         },
         "2013": {
           "player": "Otto Porter Jr.",
           "school": "Georgetown",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+          "aliases": []
         },
         "2014": null,
         "2015": {
           "player": "Aaron White",
           "school": "Iowa",
           "round": 2,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+          "aliases": []
         },
         "2016": null,
         "2017": null,
@@ -3001,55 +3522,66 @@
           "player": "Troy Brown Jr.",
           "school": "Oregon",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+          "aliases": []
         },
         "2019": {
           "player": "Rui Hachimura",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2020": {
           "player": "Deni Avdija",
           "school": "Maccabi Tel Aviv",
           "round": 1,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/250px-Maccabi_Tel_Aviv_BC_logo.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Maccabi_Tel_Aviv_BC_logo.svg/250px-Maccabi_Tel_Aviv_BC_logo.svg.png",
+          "aliases": [
+            "Deni"
+          ]
         },
         "2021": {
           "player": "Corey Kispert",
           "school": "Gonzaga",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+          "aliases": []
         },
         "2022": {
           "player": "Johnny Davis",
           "school": "Wisconsin",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+          "aliases": []
         },
         "2023": {
           "player": "Bilal Coulibaly",
           "school": "Metropolitans 92",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-metropolitans-92.png"
+          "logo": "assets/logos/nba/nba-draft-metropolitans-92.png",
+          "aliases": []
         },
         "2024": {
           "player": "Alex Sarr",
           "school": "Perth Wildcats",
           "round": 1,
-          "logo": "assets/logos/nba/nba-draft-perth-wildcats.png"
+          "logo": "assets/logos/nba/nba-draft-perth-wildcats.png",
+          "aliases": []
         },
         "2025": {
           "player": "Tre Johnson",
           "school": "Texas",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+          "aliases": []
         },
         "2026": {
           "player": "AJ Dybantsa",
           "school": "BYU",
           "round": 1,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+          "aliases": []
         }
       }
     }

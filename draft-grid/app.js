@@ -209,7 +209,8 @@
       if (!cell.pick || cell.solved) continue;
       const full = normalize(cell.pick.player);
       const last = lastName(cell.pick.player);
-      if (full === guessNorm || (last && last === guessLast)) {
+      const aliasHit = (cell.pick.aliases || []).some((a) => normalize(a) === guessNorm);
+      if (full === guessNorm || (last && last === guessLast) || aliasHit) {
         match = cell;
         break;
       }
