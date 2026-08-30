@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Draft Grid</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css?v=1" />
+</head>
+<body>
+  <div id="app" class="app">
+
+    <header class="app-header">
+      <h1>Draft Grid</h1>
+      <p class="subtitle">A mystery NBA team's first pick from each of the last 16 drafts. Name the picks. Name the team.</p>
+    </header>
+
+    <section id="setup" class="screen">
+      <div class="rules-card">
+        <h2>How to play</h2>
+        <ul>
+          <li>A random NBA team is chosen and kept secret.</li>
+          <li>The grid shows one cell per draft year, 2026 down to 2011, each with the logo of the school/club of that team's first pick in that draft &mdash; usually round 1, but round 2 when that's all they had (tagged <em>2nd rd</em>). Gray cells mean that team made no pick at all that year.</li>
+          <li>Guess each pick by name, and guess the mystery team, using the shared pool of guesses below. Guess in any order.</li>
+          <li>Wrong guesses cost a life, correct guesses are free. Run out of lives before finishing and the round is a loss &mdash; everything still hidden gets revealed.</li>
+          <li>You need every open cell <em>and</em> the team itself correct to win &mdash; getting all 16 picks right but never landing the team still ends in a loss if you run out of lives.</li>
+        </ul>
+        <h2>Good to know</h2>
+        <ul>
+          <li>"First pick" means whoever the team actually had on the clock that year &mdash; if that player was immediately traded away on draft night, the pick still counts for the original team, not wherever the player ended up.</li>
+          <li>Team identity follows the current franchise, not whatever it was called that year: Charlotte Bobcats picks count for today's Hornets, New Jersey Nets picks count for today's Brooklyn Nets, and the 2011&ndash;2012 New Orleans Hornets count for today's Pelicans (not the current Charlotte Hornets, which is a different lineage).</li>
+          <li>Name guesses accept the full name or just the last name, and ignore accents, punctuation, and capitalization.</li>
+          <li>A team can go multiple years without any pick at all &mdash; that's a real gray streak, not a bug.</li>
+          <li>A handful of obscure international/prep-school picks show a colored initials badge instead of a logo where no reliable crest was available.</li>
+        </ul>
+      </div>
+      <button id="startBtn" class="primary-btn" type="button">Start game</button>
+    </section>
+
+    <section id="game" class="screen hidden">
+      <div class="hud">
+        <div class="team-banner" id="teamBanner">
+          <div class="team-banner-logo hidden" id="teamBannerLogo"></div>
+          <div class="team-banner-text">
+            <span class="eyebrow">Mystery Team</span>
+            <span id="teamBannerName">???</span>
+          </div>
+        </div>
+        <div class="lives" id="livesWrap">
+          <span class="eyebrow">Lives</span>
+          <div class="lives-pips" id="livesPips"></div>
+        </div>
+      </div>
+
+      <div class="grid" id="pickGrid"></div>
+
+      <form id="teamForm" class="guess-form team-guess-form" autocomplete="off">
+        <label for="teamInput">Guess the team</label>
+        <div class="guess-input-wrap">
+          <input id="teamInput" type="text" list="teamList" placeholder="Type an NBA team&hellip;" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+          <datalist id="teamList"></datalist>
+        </div>
+        <button type="submit" class="secondary-btn">Guess team</button>
+      </form>
+
+      <form id="playerForm" class="guess-form" autocomplete="off">
+        <label for="playerInput">Guess a pick</label>
+        <div class="guess-input-wrap">
+          <input id="playerInput" type="text" placeholder="Type a player name&hellip;" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+        </div>
+        <button type="submit" class="primary-btn">Guess</button>
+      </form>
+
+      <p id="feedback" class="feedback" aria-live="polite"></p>
+    </section>
+
+    <section id="summary" class="screen hidden">
+      <h2 id="summaryHeadline">Round over</h2>
+      <div class="summary-team" id="summaryTeam"></div>
+      <div class="summary-grid" id="summaryGrid"></div>
+      <button id="playAgainBtn" class="primary-btn" type="button">Play again</button>
+    </section>
+
+    <footer class="app-footer">
+      Covers each team's first pick of the draft, 2011&ndash;2026. Franchise history follows current identities (e.g. Charlotte Bobcats &rarr; Hornets, New Jersey &rarr; Brooklyn Nets).
+    </footer>
+
+  </div>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>
