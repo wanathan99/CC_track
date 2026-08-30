@@ -840,11 +840,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Alex Karaban",
-          "school": "UConn",
-          "round": 1,
-          "pick": 29,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "player": "Meleek Thomas",
+          "school": "Arkansas",
+          "round": 2,
+          "pick": 34,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
           "aliases": []
         }
       }
@@ -1091,11 +1091,11 @@
         "2024": null,
         "2025": null,
         "2026": {
-          "player": "Tarris Reed Jr.",
-          "school": "UConn",
-          "round": 1,
-          "pick": 26,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+          "player": "Trevon Brazile",
+          "school": "Arkansas",
+          "round": 2,
+          "pick": 35,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
           "aliases": []
         }
       }
@@ -1233,11 +1233,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Karim Lopez",
-          "school": "New Zealand Breakers",
+          "player": "Ebuka Okorie",
+          "school": "Stanford",
           "round": 1,
-          "pick": 21,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/New_Zealand_Breakers_Logo_2026.webp/250px-New_Zealand_Breakers_Logo_2026.webp.png",
+          "pick": 17,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
           "aliases": []
         }
       }
@@ -1496,11 +1496,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Jack Kayil",
-          "school": "Alba Berlin",
+          "player": "Bruce Thornton",
+          "school": "Ohio State",
           "round": 2,
-          "pick": 39,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/250px-Alba_Berlin_logo.svg.png",
+          "pick": 31,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
           "aliases": []
         }
       }
@@ -1630,7 +1630,14 @@
           "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
           "aliases": []
         },
-        "2026": null
+        "2026": {
+          "player": "Braden Smith",
+          "school": "Purdue",
+          "round": 2,
+          "pick": 38,
+          "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
+          "aliases": []
+        }
       }
     },
     {
@@ -1900,11 +1907,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Sergio de Larrea",
-          "school": "Valencia",
+          "player": "Cameron Carr",
+          "school": "Baylor",
           "round": 1,
-          "pick": 25,
-          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Valencia_Basket_%2840_anys%29.svg/250px-Valencia_Basket_%2840_anys%29.svg.png",
+          "pick": 24,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
           "aliases": []
         }
       }
@@ -2157,11 +2164,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Nate Ament",
-          "school": "Tennessee",
-          "round": 1,
-          "pick": 13,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "player": "Ryan Conwell",
+          "school": "Louisville",
+          "round": 2,
+          "pick": 37,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
           "aliases": []
         }
       }
@@ -2438,11 +2445,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Joshua Jefferson",
-          "school": "Iowa State",
-          "round": 1,
-          "pick": 28,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+          "player": "Isaiah Evans",
+          "school": "Duke",
+          "round": 2,
+          "pick": 33,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
           "aliases": []
         }
       }
@@ -2705,11 +2712,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Cameron Carr",
-          "school": "Baylor",
-          "round": 1,
-          "pick": 24,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+          "player": "Jack Kayil",
+          "school": "Alba Berlin",
+          "round": 2,
+          "pick": 39,
+          "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Alba_Berlin_logo.svg/250px-Alba_Berlin_logo.svg.png",
           "aliases": []
         }
       }
@@ -2989,11 +2996,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Felix Okpara",
-          "school": "Tennessee",
+          "player": "Izaiyah Nelson",
+          "school": "South Florida",
           "round": 2,
-          "pick": 46,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+          "pick": 51,
+          "logo": "assets/logos/cbb/3/cbb-southflorida-2003-2025.png",
           "aliases": []
         }
       }
@@ -3263,11 +3270,11 @@
           "aliases": []
         },
         "2026": {
-          "player": "Tyler Nickel",
-          "school": "Vanderbilt",
-          "round": 2,
-          "pick": 47,
-          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
+          "player": "Koa Peat",
+          "school": "Arizona",
+          "round": 1,
+          "pick": 30,
+          "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
           "aliases": []
         }
       }
