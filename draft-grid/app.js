@@ -8,6 +8,7 @@
     game: document.getElementById('game'),
     summary: document.getElementById('summary'),
     startBtn: document.getElementById('startBtn'),
+    slotToggle: document.getElementById('slotToggle'),
     playAgainBtn: document.getElementById('playAgainBtn'),
     grid: document.getElementById('pickGrid'),
     teamForm: document.getElementById('teamForm'),
@@ -61,6 +62,17 @@
     return letters.join('').toUpperCase().slice(0, 3);
   }
 
+  function ordinal(n) {
+    const rem100 = n % 100;
+    if (rem100 >= 11 && rem100 <= 13) return `${n}th`;
+    switch (n % 10) {
+      case 1: return `${n}st`;
+      case 2: return `${n}nd`;
+      case 3: return `${n}rd`;
+      default: return `${n}th`;
+    }
+  }
+
   async function loadData() {
     const res = await fetch('data/picks.json');
     DATA = await res.json();
@@ -92,6 +104,7 @@
       teamSolved: false,
       lives: START_LIVES,
       over: false,
+      showSlot: els.slotToggle.checked,
     };
 
     els.setup.classList.add('hidden');
@@ -161,7 +174,12 @@
       div.appendChild(yearTag);
 
       if (cell.pick) {
-        if (cell.pick.round === 2) {
+        if (state.showSlot) {
+          const roundTag = document.createElement('span');
+          roundTag.className = 'round-tag';
+          roundTag.textContent = `R${cell.pick.round} · ${ordinal(cell.pick.pick)}`;
+          div.appendChild(roundTag);
+        } else if (cell.pick.round === 2) {
           const roundTag = document.createElement('span');
           roundTag.className = 'round-tag';
           roundTag.textContent = '2nd rd';
